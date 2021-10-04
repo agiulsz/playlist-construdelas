@@ -1,0 +1,28 @@
+body {
+background-color: paleturquoise ;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+div {
+    text-align: center;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 240px;
+    margin-right: 240px;
+    background-color: cornflowerblue;
+    -webkit-border-radius: 0px 30px 0px 30px
+    
+}
+
